@@ -5,7 +5,7 @@
 // Package upspinserver is a combined DirServer and StoreServer for use on
 // stand-alone machines. It provides only the production implementations of the
 // dir and store servers (dir/server and store/server).
-// It provides the common cod used by all upspinserver commands.
+// It provides the common code used by all upspinserver commands.
 package upspinserver // import "upspin.io/serverutil/upspinserver"
 
 import (
